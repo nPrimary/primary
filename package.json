@@ -31,6 +31,6 @@
         "deploy": "hexo deploy",
         "server": "hexo server",
         "netlify": "npm run clean && npm run build" // 这一行为新加
-    },
+    }
     // ......
 }
