@@ -1,5 +1,5 @@
 ---
-title: test1
+title: my first blog
 date: 2023-02-22 19:22:40
 tags:
 ---
